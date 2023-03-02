@@ -1,0 +1,35 @@
+body { 
+    background-color: #999999;
+    font-family: JetBrains Mono;
+    font-size: 20px;
+}
+
+p {
+    font-family: JetBrains Mono;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 80px;
+    margin: 0px 0px 0px 400px;
+}
+
+.image {
+    width: 300px; 
+    height: 300px; 
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+
+         /* top right bottom left */
+    margin: 0px 0px 100px 0px; 
+}
+
+/* The CSS box model */
+
+/* 
+    Margin:
+    Border:
+    Padding: 
+*/
