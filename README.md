@@ -5,4 +5,4 @@ I am an aspiring web developer, and I love the champion Singed in Leauge of
 Legends. So, why not combine the two? 
 
 It's just a chatGPT generated poem with a baisc .png image file over the
-paragraphs for now. I'll have to get more creative as I lean new things!
+paragraphs for now. I'll have to get more creative as I learn new things!
