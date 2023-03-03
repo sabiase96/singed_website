@@ -4,32 +4,40 @@ body {
     font-size: 20px;
 }
 
+.poem {
+    margin: 50px;
+}
+
+.index_link {
+    margin: 0px 100px;
+}
+
 p {
     font-family: JetBrains Mono;
     font-size: 20px;
 }
 
 h1 {
+    display: flex;
+    order: 2;
+    align-items: center;
     font-family: monospace;
     font-size: 80px;
-    margin: 0px 0px 0px 400px;
+    margin: 0px 0px 0px 50px;
 }
 
-.image {
+.img {
+    display: flex;
+    order: 1;
+    align-items: center;
     width: 300px; 
     height: 300px; 
     border-radius: 50%;
-    height: 300px;
-    width: 300px;
-
-         /* top right bottom left */
-    margin: 0px 0px 100px 0px; 
+    margin: 50px; 
 }
 
-/* The CSS box model */
-
-/* 
-    Margin:
-    Border:
-    Padding: 
-*/
+.title_and_image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
